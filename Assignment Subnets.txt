@@ -1,0 +1,5 @@
+Sales 172.21.0.0/24 255.255.255.0 Ips needed - 223
+Finance 172.21.1.0/27 255.255.255.224  Ips needed - 23
+Personnel 172.21.1.32/28 255.255.255.240 Ips needed - 13
+Management 172.21.1.48/29 255.255.255.248 Ips needed - 5
+WAN 172.21.1.56/29 255.255.255.248 Ips needed - 4
